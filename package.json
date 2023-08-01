@@ -1,0 +1,14 @@
+{
+  "name": "2-7-js-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Hello I am starting!\" && node ./scripts/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
